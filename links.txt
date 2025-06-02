@@ -1,0 +1,35 @@
+tomasos-server
+
+SanaliPizza
+Pizza123
+
+tcp: tomasos-server.database.windows.net
+
+ADO.NET connection string
+Server=tcp:tomasos-server.database.windows.net,1433;Initial Catalog=TomasosDb;Persist Security Info=False;User ID=SanaliPizza;Password=Pizza123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+============================================
+Resource group: tomatopizza
+Server: tomatopizzaserver
+
+SanaliPizza
+Pizza123
+
+Database name: TomatoPizzaDb
+
+ADO.NET (SQL authentication)
+Server=tcp:tomatopizzaserver.database.windows.net,1433;Initial Catalog=TomatoPizzaDb;Persist Security Info=False;User ID=SanaliPizza;Password=Pizza123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+{
+  "ConnectionStrings": {
+    "DefaultConnection":"Server=tcp:tomatopizzaserver.database.windows.net,1433;Initial Catalog=TomatoPizzaDb;Persist Security Info=False;User ID=SanaliPizza;Password=Pizza123;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+	  }
+}
+
+🌐 https://tomatopizzaplansweden-guawb6a8hfczf0dy.swedencentral-01.azurewebsites.net/index.html
+
+Vault URI: https://tomatopizza-keyvault.vault.azure.net/
+
+Secretkey Name: JwtKey
+
+https://tomatopizzaplansweden-guawb6a8hfczf0dy.swedencentral-01.azurewebsites.net/

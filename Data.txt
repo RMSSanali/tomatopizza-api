@@ -1,0 +1,62 @@
+{
+  "userName": "sanali123",
+  "password": "StrongPass!123"
+}
+
+{
+  "userName": "sanali123",
+  "password": "StrongPass!123",
+  "email": "sanali@example.com",
+  "phone": "0701234567"
+}
+
+{
+  "userName": "peter_rock",
+  "password": "RockSolid@2024",
+  "email": "peter.rock@example.com",
+  "phone": "0709876543"
+}
+
+{
+  "userName": "linda_star",
+  "password": "LindaPass#2025",
+  "email": "linda.star@example.com",
+  "phone": "0704567890"
+}
+
+{
+  "userName": "admin",
+  "password": "Admin@123"
+}
+
+{
+  "userName": "tony_dev",
+  "password": "DevTony$42",
+  "email": "tony.dev@example.com",
+  "phone": "0702223333"
+}
+
+{
+  "dishIds": [2, 3, 4],
+  "useBonusPoints": true
+}
+{
+  "dishIds": [4, 5, 6],
+  "useBonusPoints": true
+}
+{
+  "dishIds": [2, 3],
+  "useBonusPoints": false
+}
+{
+  "dishIds": [7, 9, 10],
+  "useBonusPoints": true
+}
+{
+  "dishIds": [11, 12, 13],
+  "useBonusPoints": true
+}
+{
+  "dishIds": [14, 15, 6],
+  "useBonusPoints": true
+}
